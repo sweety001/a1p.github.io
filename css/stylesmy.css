@@ -211,7 +211,7 @@
 .side {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
-  background-color: grey;
+  background-color: #dcd5bf;
   padding: 20px;
   border-color: none;
 }
